@@ -1,3 +1,5 @@
+import os
+import sys
 
 
 NEW_LINE_W = "\r"
